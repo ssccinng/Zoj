@@ -115,6 +115,9 @@
     <ClCompile Include="1003.Crashing Balloon.cpp" />
     <ClCompile Include="1004.Anagrams by Stack.cpp" />
     <ClCompile Include="1005.Jugs.cpp" />
+    <ClCompile Include="1006.Do the Untwist.cpp" />
+    <ClCompile Include="1007.Numerical Summation of a Series.cpp" />
+    <ClCompile Include="1008.Gnome Tetravex.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
